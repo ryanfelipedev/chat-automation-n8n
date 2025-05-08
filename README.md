@@ -29,7 +29,6 @@ Este projeto demonstra uma automação **low-code** criada com [n8n](https://n8n
 Veja abaixo o fluxo completo criado no n8n:
 
 ![fluxo-n8n](img/fluxo-n8n.png)
-
 ![fluxo-n8n](img/planilha-GoogleSheets.png)
 
 ---
